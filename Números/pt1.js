@@ -1,2 +1,4 @@
-let mensagem = 'Olá mundo!';
-console.log(mensagem);
+let num = 123.456;
+let str = num.toString();
+
+console.log(str)
