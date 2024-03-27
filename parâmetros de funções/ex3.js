@@ -1,0 +1,3 @@
+function objetoOriginal (objor){
+    
+}
